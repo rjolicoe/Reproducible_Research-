@@ -1,9 +1,9 @@
 ---
 title: "PA1_Template"
-title2: "Reproducible Research Peer Assessment #1"
 author: "Ryan Jolicoeur"
 date: "January 23, 2016"
-output: html_document
+output: word_document
+title2: 'Reproducible Research Peer Assessment #1'
 ---
 
 
