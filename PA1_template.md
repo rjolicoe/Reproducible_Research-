@@ -20,7 +20,7 @@ library(plyr)
 
 
 library(knitr)
-opts_chunk$set(echo = TRUE)
+opts_chunk$set(echo = TRUE, eval=TRUE)
 
 
 library(sqldf)
